@@ -84,4 +84,6 @@
 // Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
 #define TAPPING_FORCE_HOLD
 
+#define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
+
 #endif
